@@ -1,3 +1,5 @@
+randomize();
+
 enum phase {
 	init,
 	startTurn,
@@ -10,3 +12,5 @@ enum phase {
 }
 
 combatPhase = phase.init;
+
+global.units = ds_list_create();
