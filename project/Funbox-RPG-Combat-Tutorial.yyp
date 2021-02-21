@@ -1,7 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"vPlayerToDefend","path":"sprites/vPlayerToDefend/vPlayerToDefend.yy",},"order":6,},
+    {"id":{"name":"vPlayerMiss","path":"sprites/vPlayerMiss/vPlayerMiss.yy",},"order":5,},
     {"id":{"name":"vPlayerIdle","path":"sprites/vPlayerIdle/vPlayerIdle.yy",},"order":1,},
+    {"id":{"name":"vPlayerDefend","path":"sprites/vPlayerDefend/vPlayerDefend.yy",},"order":8,},
     {"id":{"name":"sPlayer","path":"sequences/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"vPlayerHurt","path":"sprites/vPlayerHurt/vPlayerHurt.yy",},"order":7,},
+    {"id":{"name":"vIndicator","path":"sprites/vIndicator/vIndicator.yy",},"order":9,},
     {"id":{"name":"vPlayerAttack","path":"sprites/vPlayerAttack/vPlayerAttack.yy",},"order":2,},
     {"id":{"name":"cManager","path":"objects/cManager/cManager.yy",},"order":0,},
     {"id":{"name":"Helper","path":"scripts/Helper/Helper.yy",},"order":0,},
